@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "Basic",
+      "price": 20,
+      "features": [
+        "Gym equipment access",
+        "Locker room",
+        "Personal training"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "price": 30,
+      "features": [
+        "Gym equipment access",
+        "Locker room",
+        "Locker room",
+        "Group classes"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "price": 50,
+      "features": [
+        "Gym equipment access",
+        "Locker room",
+        "Locker room",
+        "Locker room",
+        "Locker room",
+        "Group classes"
+      ]
+    }
+  ]
+  
